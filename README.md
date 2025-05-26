@@ -43,7 +43,7 @@ Full-stack app with Spring Boot (Java 21), Angular, and H2 DB.
 2. mvn spring-boot:run
 3. Access API at: http://localhost:8080
 
-# View H2 DB:
+### View H2 DB:
 
 1. Go to: http://localhost:8080/h2-console
 2. JDBC URL: jdbc:h2:mem:ticketsellingtest
