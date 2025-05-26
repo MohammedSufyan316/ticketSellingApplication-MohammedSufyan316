@@ -40,20 +40,18 @@ Full-stack app with Spring Boot (Java 21), Angular, and H2 DB.
 ## 🔧 Backend (Spring Boot)
 
 1. Run in root folder:
-   mvn spring-boot:run
-Access API at: http://localhost:8080
+2. mvn spring-boot:run
+3. Access API at: http://localhost:8080
 
-View H2 DB:
+# View H2 DB:
 
-Go to: http://localhost:8080/h2-console
+1. Go to: http://localhost:8080/h2-console
+2. JDBC URL: jdbc:h2:mem:ticketsellingtest
+3. Username: sa | Password: password
 
-JDBC URL: jdbc:h2:mem:ticketsellingtest
-
-Username: sa | Password: password
-
-🌐 Frontend (Angular)
-Go to frontend:
-cd src/userinterface
-npm install
-ng serve
-App runs at: http://localhost:4200
+## 🌐 Frontend (Angular)
+1. Go to frontend:
+2. cd src\main\java\edu\depaul\ticketselling\userinterface
+3. npm install
+4. ng serve
+5. App runs at: http://localhost:4200
