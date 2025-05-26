@@ -1,4 +1,4 @@
->📌 Team project for SE 452, based on a fork of the CSC436 template by Ken-Yu-DePaul. Developed and customized by our group.
+>📌 Team project for SE 452, based on a private fork of the SE452 template by Ken-Yu-DePaul. Developed and customized by our group, Re-uploaded for visibility
 
 
 # Project ticketselling
